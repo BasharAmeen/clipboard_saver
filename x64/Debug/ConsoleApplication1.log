@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\basha\source\repos\ConsoleApplication1\ConsoleApplication1\Source.c(121,45): warning C4133: 'function': incompatible types - from 'const char *' to 'LPCWSTR'
+C:\Users\basha\source\repos\ConsoleApplication1\ConsoleApplication1\Source.c(120,17): warning C4133: 'initializing': incompatible types - from 'unsigned short [34]' to 'const char *'
+C:\Users\basha\source\repos\ConsoleApplication1\ConsoleApplication1\Source.c(140,12): warning C4101: 'h': unreferenced local variable
+C:\Users\basha\source\repos\ConsoleApplication1\ConsoleApplication1\Source.c(239,23): warning C4133: 'function': incompatible types - from 'WCHAR [128]' to 'char *'
+C:\Users\basha\source\repos\ConsoleApplication1\ConsoleApplication1\Source.c(239,59): warning C4133: 'function': incompatible types - from 'unsigned short [13]' to 'const char *'
+C:\Users\basha\source\repos\ConsoleApplication1\ConsoleApplication1\Source.c(263,11): warning C4101: 'lastDataPointer': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\basha\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
